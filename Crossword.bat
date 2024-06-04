@@ -1,2 +1,2 @@
 @echo off
-start "" "https://radu13stefan.github.io/crossword-pa/"
+start "" "https://cretzu19.github.io/CrosswordPA/"
